@@ -667,8 +667,13 @@ img {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .snearker__pages {
+    .sneaker__pages {
         text-align: center;
+    }
+  
+    .newsletter__subscribe {
+        width: 80%;
+        margin: auto;
     }
 }
 
@@ -695,6 +700,11 @@ img {
     }
 
     .newsletter__container {
+        margin: auto;
+    }
+  
+    .newsletter__subscribe {
+        width: 60%;
         margin: auto;
     }
 
